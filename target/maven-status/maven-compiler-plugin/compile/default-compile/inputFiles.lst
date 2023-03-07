@@ -1,0 +1,6 @@
+/home/cerso/NetBeansProjects/ApiAlumno/src/main/java/com/cerso/alumno/entity/Alumno.java
+/home/cerso/NetBeansProjects/ApiAlumno/src/main/java/com/cerso/alumno/service/AlumnoService.java
+/home/cerso/NetBeansProjects/ApiAlumno/src/main/java/com/cerso/alumno/ApialumnoApplication.java
+/home/cerso/NetBeansProjects/ApiAlumno/src/main/java/com/cerso/alumno/service/AlumnoServiceImpl.java
+/home/cerso/NetBeansProjects/ApiAlumno/src/main/java/com/cerso/alumno/controller/AlumnoController.java
+/home/cerso/NetBeansProjects/ApiAlumno/src/main/java/com/cerso/alumno/repository/AlumnoRepository.java
